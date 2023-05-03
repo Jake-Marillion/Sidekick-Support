@@ -7,7 +7,7 @@ Users are greeted with a login page and are able to register, recover their acco
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-04-19 at 21 02 20](https://user-images.githubusercontent.com/110437842/236030171-d58bef9a-f020-4409-a3a6-d1d61e5dd9ff.png)
 
-Once every 24 hours and after logging in users are shown a randomly generated quote.  Users are able to create and edit characters and stories/campaigns in teh first two tabs of the app.
+Once every 24 hours and after logging in users are shown a randomly generated quote.  Users are able to create and edit characters and stories/campaigns in the first two tabs of the app.
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-04-19 at 20 58 48](https://user-images.githubusercontent.com/110437842/236030734-14aa9b74-30bc-41f5-93db-7553d5d6461e.png)
 
